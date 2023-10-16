@@ -1,5 +1,5 @@
 
-	var apiUrl = 'http://110.42.114.9:1202/get_un.php';
+	var apiUrl = 'http://md.panguh5.com:1202/get_un.php';
 	var websiteUrl,appid,baseCDN,version = '';
 	var queryUrl = apiUrl
 	var urlParams = parseURLParams(window.location.href)
