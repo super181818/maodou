@@ -340,7 +340,7 @@
 		html+='    <div id="invitation" style="display:none"></div>';
 		html+='    <div id="skinno" style="display:none"></div>';
 		html+='    <div id="headno" style="display:none"></div>';
-		html+='    <div id="site" style="display:none">laofuzi</div>';
+		html+='    <div id="site" style="display:none">baiwanniu</div>';
 		html+='    <!--<div id="site" style="display:none">rewan</div>-->';
 		html+='    <div id="lkey" style="display:none"></div>';
 		html+='    <div id="comp" style="display:none">comp5</div>';

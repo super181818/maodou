@@ -1,5 +1,5 @@
 
-	var apiUrl = 'http://mdd.panguh5.com:2202/get_un.php';
+	var apiUrl = 'http://mdd.panguh5.com:2202/hello.php';
 	var websiteUrl,appid,baseCDN,version = '';
 	var queryUrl = apiUrl
 	var urlParams = parseURLParams(window.location.href)
